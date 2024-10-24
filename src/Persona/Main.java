@@ -24,5 +24,5 @@ public class Main {
 
         // Cerrar la base de datos
         db.close();
-    } // Fin del método main
+    } // Fin del metodo main
 } // Fin de la clase Main
